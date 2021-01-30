@@ -1,2 +1,2 @@
-# Emergic Tech
+# Emerging Tech
 Assignment 01
